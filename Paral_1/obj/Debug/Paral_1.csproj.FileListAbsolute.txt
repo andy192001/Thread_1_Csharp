@@ -1,0 +1,7 @@
+D:\Rider\Paral_1\Paral_1\bin\Debug\Paral_1.exe
+D:\Rider\Paral_1\Paral_1\bin\Debug\Paral_1.pdb
+D:\Rider\Paral_1\Paral_1\obj\Debug\Paral_1.csproj.AssemblyReference.cache
+D:\Rider\Paral_1\Paral_1\obj\Debug\Paral_1.csproj.SuggestedBindingRedirects.cache
+D:\Rider\Paral_1\Paral_1\obj\Debug\Paral_1.csproj.CoreCompileInputs.cache
+D:\Rider\Paral_1\Paral_1\obj\Debug\Paral_1.exe
+D:\Rider\Paral_1\Paral_1\obj\Debug\Paral_1.pdb
